@@ -1,0 +1,19 @@
+h1
+{
+    text-align:left;
+}
+h3
+{
+    text-align: left;
+}
+.links
+{
+    text-align: center;
+    list-style-type: none;
+    line-height: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+html
+{
+    background-image: linear-gradient(to bottom, #540AF1 , #AF0AF1 ,#F1420A );
+}
